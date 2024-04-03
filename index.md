@@ -1,4 +1,4 @@
 ---
-title: Phue Phue Nyo Myint Resume
+title: Resume
 ---
 
