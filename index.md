@@ -1,4 +1,6 @@
 ---
 title: Resume
 ---
-The quick brown fox jumps ovver the lazy dog
+
+The quick brown fox jumps over the lazy dog.
+
